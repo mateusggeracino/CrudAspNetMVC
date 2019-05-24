@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGG.Crud.Web", "source\MGG.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGG.Crud.Infra.CrossCutting.IoC", "source\MGG.Crud.Infra.CrossCutting.IoC\MGG.Crud.Infra.CrossCutting.IoC.csproj", "{48DD6ECD-D568-4A50-B45F-F68573E3211D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGG.Crud.Infra.CrossCutting.Identity", "MGG.Crud.Infra.CrossCutting.Identity\MGG.Crud.Infra.CrossCutting.Identity.csproj", "{AD2AC9E9-1DA0-49BA-99E3-8B4BFABC6342}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGG.Crud.Infra.CrossCutting.Identity", "source\MGG.Crud.Infra.CrossCutting.Identity\MGG.Crud.Infra.CrossCutting.Identity.csproj", "{AD2AC9E9-1DA0-49BA-99E3-8B4BFABC6342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

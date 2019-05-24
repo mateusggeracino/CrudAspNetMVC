@@ -296,13 +296,13 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MGG.Crud.Infra.CrossCutting.Identity\MGG.Crud.Infra.CrossCutting.Identity.csproj">
-      <Project>{AD2AC9E9-1DA0-49BA-99E3-8B4BFABC6342}</Project>
-      <Name>MGG.Crud.Infra.CrossCutting.Identity</Name>
-    </ProjectReference>
     <ProjectReference Include="..\MGG.Crud.Application\MGG.Crud.Application.csproj">
       <Project>{4CBF8AAF-FAEA-4A88-83CB-A06AE770D0E4}</Project>
       <Name>MGG.Crud.Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MGG.Crud.Infra.CrossCutting.Identity\MGG.Crud.Infra.CrossCutting.Identity.csproj">
+      <Project>{AD2AC9E9-1DA0-49BA-99E3-8B4BFABC6342}</Project>
+      <Name>MGG.Crud.Infra.CrossCutting.Identity</Name>
     </ProjectReference>
     <ProjectReference Include="..\MGG.Crud.Infra.CrossCutting.IoC\MGG.Crud.Infra.CrossCutting.IoC.csproj">
       <Project>{48dd6ecd-d568-4a50-b45f-f68573e3211d}</Project>
