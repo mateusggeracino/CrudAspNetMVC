@@ -20,7 +20,6 @@ C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\EntityFramework.dll
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\MGG.Crud.Domain.dll
-C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\FluentValidation.dll
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\MGG.Crud.Domain.pdb
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\EntityFramework.xml
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
@@ -30,3 +29,4 @@ C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\obj\Debug\
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\obj\Debug\MGG.Crud.Infra.Data.csproj.CopyComplete
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\obj\Debug\MGG.Crud.Infra.Data.dll
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\obj\Debug\MGG.Crud.Infra.Data.pdb
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Infra.Data\bin\Debug\System.Data.SqlServerCe.dll

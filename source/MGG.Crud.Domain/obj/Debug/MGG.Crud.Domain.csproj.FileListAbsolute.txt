@@ -15,3 +15,4 @@ C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.csproj.CopyComplete
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.dll
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.pdb
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.csprojAssemblyReference.cache

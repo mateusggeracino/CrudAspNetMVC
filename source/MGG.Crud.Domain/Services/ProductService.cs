@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using MGG.Crud.Domain.Interfaces.Repository;
 using MGG.Crud.Domain.Interfaces.Services;
 using MGG.Crud.Domain.Models;
@@ -7,36 +8,47 @@ namespace MGG.Crud.Domain.Services
 {
     public class ProductService : IProductService
     {
-        private readonly IProductRepository _userRepository;
+        private readonly IProductRepository _productRepository;
 
-        public ProductService(IProductRepository userRepository)
+        public ProductService(IProductRepository productRepository)
         {
-            _userRepository = userRepository;
+            _productRepository = productRepository;
         }
 
-        public void Create(Product user)
+        public Product Create(Product product)
         {
-            _userRepository.Create(user);
+            if (!product.IsValid()) return product;
+
+            _productRepository.Create(product);
+            return product;
         }
 
         public Product Read(Guid id)
         {
-            return _userRepository.Read(id);
+            return _productRepository.Read(id);
         }
 
-        public void Update(Product user)
+        public Product Update(Product product)
         {
-            _userRepository.Update(user);
+            if (!product.IsValid()) return product;
+
+            _productRepository.Update(product);
+            return product;
         }
 
         public void Delete(Guid id)
         {
-            _userRepository.Delete(id);
+            _productRepository.Delete(id);
+        }
+
+        public IEnumerable<Product> GetAll()
+        {
+            return _productRepository.GetAll();
         }
 
         public void Dispose()
         {
-            _userRepository.Dispose();
+            _productRepository.Dispose();
         }
     }
 }

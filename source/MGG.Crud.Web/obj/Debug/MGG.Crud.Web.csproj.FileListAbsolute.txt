@@ -260,3 +260,9 @@ C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\bin\System.ValueT
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\obj\Debug\MGG.Crud.Web.csproj.CopyComplete
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\obj\Debug\MGG.Crud.Web.dll
 C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\obj\Debug\MGG.Crud.Web.pdb
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\bin\PagedList.dll
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\bin\PagedList.Mvc.dll
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\bin\PagedList.xml
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\bin\PagedList.Mvc.xml
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\bin\MBB.Crud.Infra.CrossCutting.MvcFilters.dll
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Web\bin\MBB.Crud.Infra.CrossCutting.MvcFilters.pdb

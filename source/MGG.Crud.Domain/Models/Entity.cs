@@ -15,6 +15,6 @@ namespace MGG.Crud.Domain.Models
         public Guid Id { get; protected set; }
         public ValidationResult ValidationResult { get; protected set; }
 
-        protected abstract bool IsValid();
+        public abstract bool IsValid();
     }
 }

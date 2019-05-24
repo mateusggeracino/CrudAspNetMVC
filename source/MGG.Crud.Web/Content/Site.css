@@ -3,7 +3,7 @@
 }
 
 .render-body {
-    padding-top:50px;
+    padding-top:10px;
 }
 /* Set padding to keep content from hitting the edges */
 .body-content {
@@ -19,8 +19,12 @@
 }
 
 /* Set width on the form input elements since they're 100% wide by default */
-input,
+/*input,
 select,
 textarea {
     max-width: 280px;
+}*/
+
+.minvh-100 {
+    min-height: 100vh;
 }

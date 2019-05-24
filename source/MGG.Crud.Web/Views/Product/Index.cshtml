@@ -1,46 +1,51 @@
-﻿@model IEnumerable<MGG.Crud.Application.ViewModels.ProductViewModel>
-
+﻿@model PagedList.IPagedList<MGG.Crud.Application.ViewModels.ProductViewModel>
+@using PagedList
+@using PagedList.Mvc
 @{
     ViewBag.Title = "Index";
 }
+<link rel="stylesheet" href="~/Content/PagedList.css" />
 
+<div class="jumbotron">
+    <div class="container">
+        <h1 class="display-4">Produtos</h1>
+        <p class="lead">Todos o produtos cadastrados serão apresentados na lista abaixo. Você poderá editar, deletar ou criar um novo produto, se estiver logado.</p>
+    </div>
+    <div class="text-right"><a class="btn btn-warning" href="@Url.Action("Create","Product")">Criar produto</a></div>
+</div>
 
-<a class="btn btn-primary" href="#">Create a new product</a>
-<table class="table">
-    <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.Name)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Description)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.RegisterDate)
-        </th>
-        <th></th>
-    </tr>
-    
-    @if (Model != null)
-    {
-        foreach (var item in Model)
-         {
-             <tr>
-                 <td>
-                     @Html.DisplayFor(modelItem => item.Name)
-                 </td>
-                 <td>
-                     @Html.DisplayFor(modelItem => item.Description)
-                 </td>
-                 <td>
-                     @Html.DisplayFor(modelItem => item.RegisterDate)
-                 </td>
-                 <td>
-                     @Html.ActionLink("Edit", "Edit", new {/* id=item.PrimaryKey */}) |
-                     @Html.ActionLink("Details", "Details", new {/* id=item.PrimaryKey */}) |
-                     @Html.ActionLink("Delete", "Delete", new {/* id=item.PrimaryKey */})
-                 </td>
-             </tr>
-         }
-    }
+<h3 class="text-center pb-3 text-uppercase">Lista de produtos</h3>
+<div class="d-flex justify-content-center table-responsive">
 
-</table>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">@Html.DisplayName("Nome")</th>
+                <th scope="col">@Html.DisplayName("Breve Descrição")</th>
+                <th scope="col">@Html.DisplayName("Data criação")</th>
+                <th scope="col" class="text-center">Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        <td>@item.RegisterDate.ToString("dd/MM/yyyy")</td>
+                        <td class="btn-group btn-group-toggle input-group d-flex justify-content-center">
+                            <a href="@Url.Action("Edit", "Product", new {@id = item.Id})" class="btn btn-sm btn-outline-secondary text-uppercase">Editar</a>
+                            <a href="@Url.Action("Details", "Product", new {@id = item.Id})" class="btn btn-sm btn-outline-info text-uppercase">Detalhes</a>
+                            <a href="@Url.Action("Delete", "Product", new {@id = item.Id})" class="btn btn-sm btn-outline-danger text-uppercase">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+<span class="d-flex justify-content-center">@Html.PagedListPager(Model, page => Url.Action("Index", new { pagina = page }))</span>
+
