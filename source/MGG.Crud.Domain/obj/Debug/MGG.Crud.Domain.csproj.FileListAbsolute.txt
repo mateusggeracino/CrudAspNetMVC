@@ -7,3 +7,11 @@ C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.
 C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.csproj.CopyComplete
 C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.dll
 C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.pdb
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\bin\Debug\MGG.Crud.Domain.dll
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\bin\Debug\MGG.Crud.Domain.pdb
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\bin\Debug\FluentValidation.dll
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\bin\Debug\FluentValidation.xml
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.csproj.CopyComplete
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.dll
+C:\Users\cc2667\source\repos\CrudAspNetMVC\source\MGG.Crud.Domain\obj\Debug\MGG.Crud.Domain.pdb
