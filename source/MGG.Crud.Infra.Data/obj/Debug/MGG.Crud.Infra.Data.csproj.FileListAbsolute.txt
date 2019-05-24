@@ -1,0 +1,16 @@
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\MGG.Crud.Infra.Data.dll.config
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\MGG.Crud.Infra.Data.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\MGG.Crud.Infra.Data.pdb
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\MGG.Crud.Domain.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\FluentValidation.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\MGG.Crud.Domain.pdb
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\bin\Debug\FluentValidation.xml
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\obj\Debug\MGG.Crud.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\obj\Debug\MGG.Crud.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\obj\Debug\MGG.Crud.Infra.Data.csproj.CopyComplete
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\obj\Debug\MGG.Crud.Infra.Data.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Infra.Data\obj\Debug\MGG.Crud.Infra.Data.pdb

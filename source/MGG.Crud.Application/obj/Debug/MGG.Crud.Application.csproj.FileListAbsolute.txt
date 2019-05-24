@@ -1,0 +1,16 @@
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\MGG.Crud.Application.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\MGG.Crud.Application.pdb
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\AutoMapper.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\MGG.Crud.Domain.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\System.ValueTuple.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\FluentValidation.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\MGG.Crud.Domain.pdb
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\AutoMapper.pdb
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\AutoMapper.xml
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\System.ValueTuple.xml
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\bin\Debug\FluentValidation.xml
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\obj\Debug\MGG.Crud.Application.csprojAssemblyReference.cache
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\obj\Debug\MGG.Crud.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\obj\Debug\MGG.Crud.Application.csproj.CopyComplete
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\obj\Debug\MGG.Crud.Application.dll
+C:\Users\Mateus\source\repos\MGG.Crud\source\MGG.Crud.Application\obj\Debug\MGG.Crud.Application.pdb
